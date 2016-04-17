@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @author Manuel
+ * @author Manuel <191711>
  * @param <T>
  *            - type of powerSet
  * 
